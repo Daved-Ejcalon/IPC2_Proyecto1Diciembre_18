@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bilbioteca>
+    <cancion nombre="Rola de prueba">
+        <artista>Artista prueba</artista>
+        <album>Album prueba</album>
+        <imagen>C:\Users\alanp\Desktop\Proyectos pa\cover_prueba.png</imagen>
+        <ruta>"C:\Users\Monica Calderon\Diciembre 2021\IPC2\AOB_BTS.mp3"</ruta>
+    </cancion>
+    <cancion nombre="Atack of bangtan">
+        <artista>BTS</artista>
+        <album>O!RUL8,2?</album>
+        <imagen>C:\Users\Monica Calderon\Diciembre 2021\IPC2\AOB_BTS.jpg</imagen>
+        <ruta>"C:\Users\Monica Calderon\Diciembre 2021\IPC2\AOB_BTS.mp3"</ruta>
+    </cancion>
+    <cancion nombre="the middle 2">
+        <artista>Jimmy Eat World</artista>
+        <album>Bleed American</album>
+        <imagen>C:\Users\Monica Calderon\Diciembre 2021\IPC2\theMiddleJEW2.jpg</imagen>
+        <ruta>C:\Users\Monica Calderon\Diciembre 2021\IPC2\theMiddleJEW2.mp3</ruta>
+    </cancion>
+    <cancion nombre="the middle">
+        <artista>Jimmy Eat World</artista>
+        <album>Bleed American</album>
+        <imagen>C:\Users\Monica Calderon\Diciembre 2021\IPC2\theMiddleJEW.jpg</imagen>
+        <ruta>"C:\Users\Monica Calderon\Diciembre 2021\IPC2\theMiddleJEW.mp3"</ruta>
+    </cancion>
+    <cancion nombre="Perfectly Perfect">
+        <artista>Simple plan</artista>
+        <album>Taking One for the Team</album>
+        <imagen>C:\Users\Monica Calderon\Diciembre 2021\IPC2\SimplePlan_PP.jpg</imagen>
+        <ruta>"C:\Users\Monica Calderon\Diciembre 2021\IPC2\SimplePlan_PP.mp3"</ruta>
+    </cancion>
+    <cancion nombre="Perfectly Perfect 2">
+        <artista>Simple plan</artista>
+        <album>Taking One for the Team 2"</album>
+        <imagen>C:\Users\Monica Calderon\Diciembre 2021\IPC2\SimplePlan_PP.jpg</imagen>
+        <ruta>C:\Users\Monica Calderon\Diciembre 2021\IPC2\SimplePlan_PP2.mp3"</ruta>
+    </cancion>
+</bilbioteca>

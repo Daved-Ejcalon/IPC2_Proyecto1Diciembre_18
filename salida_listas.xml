@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<ListasReproduccion>
+  <Lista nombre="Lista 1">
+    <cancion nombre="Rola de prueba">
+      <artista>Artista prueba</artista>
+      <album>Album prueba</album>
+      <vecesReproducida>0</vecesReproducida>
+      <imagen>C:\Users\alanp\Desktop\Proyectos pa\cover_prueba.png</imagen>
+      <ruta>C:\Users\Monica Calderon\Diciembre 2021\IPC2\AOB_BTS.mp3</ruta>
+    </cancion>
+    <cancion nombre="Atack of bangtan">
+      <artista>BTS</artista>
+      <album>O!RUL8,2?</album>
+      <vecesReproducida>0</vecesReproducida>
+      <imagen>C:\Users\Monica Calderon\Diciembre 2021\IPC2\AOB_BTS.jpg</imagen>
+      <ruta>C:\Users\Monica Calderon\Diciembre 2021\IPC2\AOB_BTS.mp3</ruta>
+    </cancion>
+    <cancion nombre="the middle 2">
+      <artista>Jimmy Eat World</artista>
+      <album>Bleed American</album>
+      <vecesReproducida>0</vecesReproducida>
+      <imagen>C:\Users\Monica Calderon\Diciembre 2021\IPC2\theMiddleJEW2.jpg</imagen>
+      <ruta>C:\Users\Monica Calderon\Diciembre 2021\IPC2\theMiddleJEW2.mp3</ruta>
+    </cancion>
+    <cancion nombre="the middle">
+      <artista>Jimmy Eat World</artista>
+      <album>Bleed American</album>
+      <vecesReproducida>0</vecesReproducida>
+      <imagen>C:\Users\Monica Calderon\Diciembre 2021\IPC2\theMiddleJEW.jpg</imagen>
+      <ruta>C:\Users\Monica Calderon\Diciembre 2021\IPC2\theMiddleJEW.mp3</ruta>
+    </cancion>
+  </Lista>
+</ListasReproduccion>
